@@ -35,7 +35,7 @@ export default function Home() {
             <h3>Navigate through the Hall of Fame &rarr;</h3>
           </a>
 
-          <a href="/recognize" className="card">
+          <a href="" className="card">
             <h3>Recognize someone from DXC &rarr;</h3>
           </a>
 

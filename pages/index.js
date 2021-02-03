@@ -31,14 +31,13 @@ export default function Home() {
         </p>
 
         <div className="grid">
-          <a href="/hall" className="card">
+          <a href="/category" className="card">
             <h3>Navigate through the Hall of Fame &rarr;</h3>
           </a>
 
           <a href="" className="card">
             <h3>Recognize someone from DXC &rarr;</h3>
           </a>
-
           
         </div>
       </main>

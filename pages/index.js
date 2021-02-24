@@ -35,7 +35,7 @@ export default function Home() {
             <h3>Navigate through the Hall of Fame &rarr;</h3>
           </a>
 
-          <a href="https://forms.gle/NtMyBXK4vmFZpJ1K9" className="card">
+          <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=cTXzkw9Vz0Own80zEzjQhuS8315yurZAuFtdvYfJqppUNkhBVTQ1WU9DVERZODg2TktZTU5EUjZBSi4u" className="card">
             <h3>Recognize someone from DXC &rarr;</h3>
           </a>
           
